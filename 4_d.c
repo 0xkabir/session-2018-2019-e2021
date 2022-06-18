@@ -5,4 +5,4 @@ void main() {
     printf("%d", a);
 }
 
-// There is no error in the given program.
+// M is capital in Main which will cause an error.
